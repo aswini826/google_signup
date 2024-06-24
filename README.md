@@ -2,18 +2,6 @@ FastAPI Google OAuth Example
 
 This project is an example of using FastAPI to create a web application that integrates with Google OAuth for user authentication. The application includes routes for user login, logout, and displaying a welcome page after successful authentication.
 
-**Project Structure**
-
-your_project/
-├── main.py
-├── templates/
-│   ├── home.html
-│   ├── welcome.html
-│   └── errors.html
-├── static/
-├── .gitignore
-└── config.py
-
 **Prerequisites**
 Python 3.7+
 Google Cloud Platform project with OAuth 2.0 credentials
